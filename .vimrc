@@ -24,6 +24,7 @@ set softtabstop=2
 set expandtab
 set number
 set cc=80
+set viminfo+=<50,s10
 
 call pathogen#infect()
 syntax on
